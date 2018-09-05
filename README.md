@@ -1,5 +1,5 @@
 # smbrelayz.py
-just some dev to work out a few enhancements and possibly get core to pull them in...
+just some dev to work out a few enhancements and possibly get core security impacket to pull them in...
 
 Mainly the changes here are small...just wanted to make this listen for connections on 80, 443, 139, and 445 by default instead of just 80 and 445.
 
